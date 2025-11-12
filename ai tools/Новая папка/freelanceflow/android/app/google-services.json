@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136685855225",
+    "project_id": "freelanceflow-fbccd",
+    "storage_bucket": "freelanceflow-fbccd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136685855225:android:8f09e124a69eca46cddd28",
+        "android_client_info": {
+          "package_name": "com.example.freelanceflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3bxWlrBg72WKtUFOtmG7y68Q2psJ4IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
